@@ -1,0 +1,11 @@
+=============================================
+🎯 TARGET INTELLIGENCE REPORT
+=============================================
+Target Username : rahuljangir
+Name Found      : None
+Location Found  : None
+Company Found   : None
+---------------------------------------------
+🔥 CONFIDENCE SCORE: 0/100
+[-] LOW PROBABILITY. Likely a false positive.
+=============================================
