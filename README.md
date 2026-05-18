@@ -11,4 +11,3 @@ Instead of manual data scraping, this engine takes fragmented suspect data (like
 * **Identity Disambiguation Scoring:** Computes a 0-100 confidence score based on known seed data.
 * **Automated Evidence Exporting:** Generates hard-copy `.txt` intelligence reports for case files.
 
-*Note: This is a Proof of Concept (PoC) built for law enforcement research presentations.*
